@@ -16,6 +16,8 @@ public class Cr7GitHelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("Bonjour de ABDRZ");
     }
     
 }
