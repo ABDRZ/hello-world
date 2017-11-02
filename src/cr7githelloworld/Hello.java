@@ -9,15 +9,11 @@ package cr7githelloworld;
  *
  * @author Le Padre
  */
-public class Cr7GitHelloWorld {
+public class Hello {
+    private String mes;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here  
-        Hello h=new Hello("Bonjour de ABDRZ");
-        System.out.println(h);
+    public Hello(String mes) {
+        this.mes = mes;
     }
     
 }
